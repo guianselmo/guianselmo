@@ -31,9 +31,9 @@ src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&
 
 <p align="left">
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guianselmo&show_icons=true&theme=tokyonight" alt="guianselmo stats"/>
+<img width="531em" src="https://github-readme-stats.vercel.app/api?username=guianselmo&show_icons=true&theme=tokyonight" alt="guianselmo stats"/>
   
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guianselmo&layout=compact&theme=tokyonight" alt="guianselmo"/>
+<img width="531em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guianselmo&layout=compact&theme=tokyonight" alt="guianselmo"/>
 </p>
 
 <br>
